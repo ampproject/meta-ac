@@ -1,2 +1,3 @@
-# meta-ac
-The AMP Advisory Committee
+# Repository of the AMP Advisory Committee
+
+Nothing here yet :)

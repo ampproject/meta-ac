@@ -13,6 +13,14 @@ There is no limit to the number of terms a member can do.
 
 Two months before the end of the calendar year, members in "good standing" (still TBD) will be asked to rejoin. Members are under no obligation to do so.
 
+### Election
+
+The Current AC members approve any new AC member through the [consensus based process][consensus].
+
+It is the AC's duty to ensure the AC is as representative and diverse as possible. When AC membership places are available, AC members commit to proactively reaching out to groups who are not currently represented.
+
+### Resignation
+
 Members may resign at any time by advising the facilitator in written of their desire to do so.
 
 

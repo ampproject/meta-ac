@@ -5,6 +5,16 @@
 
 Make AMP a great web citizen.
 
+## Membership
+
+The duration of a term is one year. The year starts on January 1st, regardless of when a member joined the AC.
+
+There is no limit to the number of terms a member can do.
+
+Two months before the end of the calendar year, members in "good standing" (still TBD) will be asked to rejoin. Members are under no obligation to do so.
+
+Members may resign at any time by advising the facilitator in written of their desire to do so.
+
 
 ## Representation
 

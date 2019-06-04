@@ -13,7 +13,7 @@ We use the following channels to communicate:
 
 - **This GitHub repository.** This is where you will find most of our work happening. Feel free to [comment on exisiting issues][issues] or [file a new one][new-issue] if you have questions or issues you want to raise with the AC.
 - **The [#amp-ac][slack-channel] channel on the amphtml Slack workspace.** If you aren't a member of the amphtml workspace, enter your email address on the [AMP Developer Slack Signup form][slack-signup] to get invited to the Slack workspace, from which you'll be able to join the [#amp-ac][slack-channel] channel.
-- **Monthly video conferences.** These video conferences are open to external guests. You will find a link to the video conference on the meeting agenda under the [AC Meetings label][meetings]. Currently we use zoom.us for these conferences.
+- **Fortnightly video conferences.** These video conferences are open to external guests. You will find a link to the video conference on the meeting agenda under the [AC Meetings label][meetings]. Currently we use zoom.us for these conferences.
 - **F2F Meetings.** These are open to external guests provided they register in advance. Specifics TBA.
 - **A [private mailing list][mailing-list].** We use this mailing to coordinate logistical matters and share privacy sensitive information.
 

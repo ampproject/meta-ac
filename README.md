@@ -7,6 +7,28 @@ The AMP Advisory Committee (AC) provides perspective and advice to the Technical
 - [Meeting minutes](https://github.com/ampproject/meta-ac/tree/master/meetings)
 - [Upcoming meetings][meetings]
 
+## Members:
+
+
+- Charles Vazac - [@cvazac](https://github.com/cvazac)
+- Dane Knecht - [@dknecht](https://github.com/dknecht)
+- David Merrell - [@dymerrell](https://github.com/dymerrell)
+- Elisa Budelli - [@elibud](https://github.com/elibud)
+- Graham Loh - [@grahamle](https://github.com/grahamle)
+- Guilherme Moser de Souza - [@mobtec](https://github.com/mobtec)
+- Joe Alicata - [@wirelessjoe](https://github.com/wirelessjoe)
+- Kenji Baheux - [@kenjibaheux](https://github.com/kenjibaheux)
+- Levi Durfee - [@levidurfee](https://github.com/levidurfee)
+- Léonie Watson - [@LJWatson](https://github.com/LJWatson)
+- Pablo Delgado - [@pdelgadorodriguez](https://github.com/pdelgadorodriguez)
+- Senthil Padmanabhan - [@senthilp](https://github.com/senthilp)
+- Sumantro Das - [@sumodas](https://github.com/sumodas)
+- Terence Eden - [@edent](https://github.com/edent)
+- Tim Jones - [@tones](https://github.com/tones)
+- Tobie Langel - [@tobie](https://github.com/tobie) _(facilitator)_
+
+Github team: https://github.com/orgs/ampproject/teams/ac.
+
 ## Communication Channels
 
 We use the following channels to communicate:

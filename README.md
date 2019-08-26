@@ -11,7 +11,6 @@ The AMP Advisory Committee (AC) provides perspective and advice to the Technical
 
 
 - Charles Vazac - [@cvazac](https://github.com/cvazac)
-- Dane Knecht - [@dknecht](https://github.com/dknecht)
 - David Merrell - [@dymerrell](https://github.com/dymerrell)
 - Elisa Budelli - [@elibud](https://github.com/elibud)
 - Graham Loh - [@grahamle](https://github.com/grahamle)

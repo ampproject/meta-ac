@@ -9,7 +9,6 @@ The AMP Advisory Committee (AC) provides perspective and advice to the Technical
 
 ## Members:
 
-
 - Charles Vazac - [@cvazac](https://github.com/cvazac)
 - David Merrell - [@dymerrell](https://github.com/dymerrell)
 - Elisa Budelli - [@elibud](https://github.com/elibud)
@@ -27,6 +26,13 @@ The AMP Advisory Committee (AC) provides perspective and advice to the Technical
 - Tobie Langel - [@tobie](https://github.com/tobie) _(facilitator)_
 
 Github team: https://github.com/orgs/ampproject/teams/ac.
+
+<details>
+  <summary>Past members</summary>
+  
+  - Dane Knecht - [@dknecht](https://github.com/dknecht)
+  - Nicole Sullivan - [@stubbornella](https://github.com/stubbornella)
+</details>
 
 ## Communication Channels
 

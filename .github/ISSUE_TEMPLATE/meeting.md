@@ -25,5 +25,5 @@ Find your local number: https://zoom.us/u/avfhv6bQL
 
 # Minutes
 
-[google doc]()
+[google doc (scratchpad for minute taking)](https://docs.google.com/document/d/1yUezobTPggLO7wSHN9c6W-LPVjzrpA8aU1-lKKdZxKU/edit?usp=sharing)
 [/meetings/YYYY-MM-DD.md](https://github.com/ampproject/meta-ac/blob/master/meetings/YYYY-MM-DD.md)

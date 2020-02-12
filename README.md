@@ -13,13 +13,10 @@ The AMP Advisory Committee (AC) provides perspective and advice to the Technical
 - Charles Vazac - [@cvazac](https://github.com/cvazac)
 - David Merrell - [@dymerrell](https://github.com/dymerrell)
 - Elisa Budelli - [@elibud](https://github.com/elibud)
-- Graham Loh - [@grahamle](https://github.com/grahamle)
 - Guilherme Moser de Souza - [@mobtec](https://github.com/mobtec)
-- Jervay Singh - [@jervay](https://github.com/jervay)
 - Joe Alicata - [@wirelessjoe](https://github.com/wirelessjoe)
 - Kenji Baheux - [@kenjibaheux](https://github.com/kenjibaheux)
 - Levi Durfee - [@levidurfee](https://github.com/levidurfee)
-- Léonie Watson - [@LJWatson](https://github.com/LJWatson)
 - Maggie Wettergreen - [@mjwettergreen](https://github.com/mjwettergreen)
 - Melanie Sumner - [@melsumner](https://github.com/melsumner)
 - Melissa DePuydt - [@msteffan](https://github.com/msteffan)
@@ -37,6 +34,9 @@ Github team: https://github.com/orgs/ampproject/teams/ac.
   <summary>Past members</summary>
   
   - Dane Knecht - [@dknecht](https://github.com/dknecht)
+  - Graham Loh - [@grahamle](https://github.com/grahamle)
+  - Jervay Singh - [@jervay](https://github.com/jervay)
+  - Léonie Watson - [@LJWatson](https://github.com/LJWatson)
   - Nicole Sullivan - [@stubbornella](https://github.com/stubbornella)
 </details>
 

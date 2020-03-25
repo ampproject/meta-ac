@@ -19,7 +19,11 @@ Find your local number: https://zoom.us/u/avfhv6bQL
 
 # Agenda
 
-*
+* Approve last call's minutes.
+* Check roster for TSC meeting.
+* Check roster for Design reviews.
+* ...
+* Check [issue board](https://github.com/ampproject/meta-ac/projects/2).
 
 *Note: Add a comment on this issue to propose items for the agenda.*
 

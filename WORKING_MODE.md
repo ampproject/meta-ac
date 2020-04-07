@@ -23,6 +23,7 @@ It is the AC's duty to ensure the AC is as representative and diverse as possibl
 
 Members may resign at any time by advising the facilitator in written of their desire to do so.
 
+Resigning members may nominate a candidate to replace them, subject to the AC's consideration. Should the nominee be accepted by the AC, they will join the AC as an _interim member_ until the end of the current term or the next election cycle, whichever comes first. _Interim members_ who wish to continue to participate in the AC beyond this point and join it as a regular member will need to apply for a seat during the following election cycle.
 
 ## Representation
 

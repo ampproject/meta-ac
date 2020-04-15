@@ -9,6 +9,7 @@ Steps to take when bringing in (or saying farewell) to AC reps:
 ### Onboarding Checklist
 
 - [ ] Add individual to AC mailing list
+- [ ] Add individual to ampproject organization on GitHub
 - [ ] Add individual to AC team on GitHub
 - [ ] Add individual to recurring meeting calendar invite
 - [ ] Update /meta-ac README

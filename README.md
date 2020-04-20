@@ -10,6 +10,7 @@ The AMP Advisory Committee (AC) provides perspective and advice to the Technical
 ## Members:
 
 - Ali Ghassemi - [@aghassemi](https://github.com/aghassemi)
+- Brian Howard - [@brianwhoward](https://github.com/brianwhoward) _(interim)_
 - Charles Vazac - [@cvazac](https://github.com/cvazac)
 - David Merrell - [@dymerrell](https://github.com/dymerrell)
 - Elisa Budelli - [@elibud](https://github.com/elibud)
@@ -23,7 +24,6 @@ The AMP Advisory Committee (AC) provides perspective and advice to the Technical
 - Pablo Delgado - [@pdelgadorodriguez](https://github.com/pdelgadorodriguez)
 - Senthil Padmanabhan - [@senthilp](https://github.com/senthilp)
 - Sumantro Das - [@sumodas](https://github.com/sumodas)
-- Ted Shuter - [@TedShuter](https://github.com/TedShuter)
 - Terence Eden - [@edent](https://github.com/edent)
 - Tim Jones - [@tones](https://github.com/tones)
 - Tobie Langel - [@tobie](https://github.com/tobie) _(facilitator)_
@@ -38,6 +38,7 @@ Github team: https://github.com/orgs/ampproject/teams/ac.
   - Jervay Singh - [@jervay](https://github.com/jervay)
   - Léonie Watson - [@LJWatson](https://github.com/LJWatson)
   - Nicole Sullivan - [@stubbornella](https://github.com/stubbornella)
+  - Ted Shuter - [@TedShuter](https://github.com/TedShuter)
 </details>
 
 ## Communication Channels

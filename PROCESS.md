@@ -15,6 +15,7 @@ Steps to take when bringing in (or saying farewell) to AC reps:
 - [ ] Update /meta-ac README
 - [ ] Update Roster Spreadsheet
 - [ ] Add individual to the meeting notes template
+- [ ] Add individual to the AMP Slack Workspace and the #amp-ac channel
 - [ ] Invite individual for an onboarding meeting to get up to speed on current AC activities
 - [ ] Once added, send welcome email to the AC list for introductions
 

@@ -9,9 +9,11 @@ Steps to take when an AC work item has been identified:
 
 - [ ] New issue is raised by stakeholder
 - [ ] Brought to the AC for discussion
+- [ ] The AC identifies clear desired outcomes for the issue
 - [ ] Issue is assigned to a champion (if no champion signs up, the issue is closed until a champion steps up)
 - [ ] Champion brings issue to the TSC and/or the relevant Working Groups (WG), either by filing an issue or joining a meeting
 - [ ] Champion drives the issue to resolution in collaboration with TSC/WG and stakeholder
+- [ ] Issue is brought back to the AC which recognizes desired outcomes have been reached, approves alternative outcomes, or suggests remediations
 - [ ] Issue resolution is documented
 - [ ] Resolution is published on the AMP blog
 

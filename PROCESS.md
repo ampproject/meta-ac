@@ -8,23 +8,23 @@ Steps to take when bringing in (or saying farewell) to AC reps:
 
 ### Onboarding Checklist
 
-- [ ] Add individual to AC mailing list
-- [ ] Add individual to ampproject organization on GitHub
-- [ ] Add individual to AC team on GitHub
-- [ ] Add individual to recurring meeting calendar invite
+- [ ] Add member to AC mailing list
+- [ ] Add member to ampproject organization on GitHub
+- [ ] Add member to AC team on GitHub
+- [ ] Add member to recurring meeting calendar invite
 - [ ] Update /meta-ac README
 - [ ] Update Roster Spreadsheet
-- [ ] Add individual to the meeting notes template
-- [ ] Add individual to the AMP Slack Workspace and the #amp-ac channel
-- [ ] Invite individual for an onboarding meeting to get up to speed on current AC activities
+- [ ] Add member to the meeting notes template
+- [ ] Add member to the AMP Slack Workspace and the #amp-ac channel
+- [ ] Invite member for an onboarding meeting to get up to speed on current AC activities
 - [ ] Once added, send welcome email to the AC list for introductions
 
 
 ### Off-boarding Checklist
-- [ ] Remove individual from AC mailing list
-- [ ] Remove individual from AC team on GitHub
-- [ ] Remove individual from recurring meeting calendar invite
+- [ ] Remove member from AC mailing list
+- [ ] Remove member from AC team on GitHub
+- [ ] Remove member from recurring meeting calendar invite
 - [ ] Update /meta-ac README
 - [ ] Update Roster Spreadsheet
-- [ ] Remove individual from the meeting notes template
+- [ ] Remove member from the meeting notes template
 - [ ] Farewell & contact update email for AC reps to maintain friendships/connections

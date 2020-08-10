@@ -7,11 +7,11 @@ Make AMP a great web citizen.
 
 ## Membership
 
-The duration of a term is one year. The year starts on January 1st, regardless of when a member joined the AC.
+The duration of a term is one year. The year starts on November 1st, regardless of when a member joined the AC.
 
 There is no limit to the number of terms a member can do.
 
-Two months before the end of the calendar year, members in "good standing" (still TBD) will be asked to rejoin. Members are under no obligation to do so.
+Two months before the end of the term year, members in "good standing" - those who have participated in meetings, email threads, and/or GitHub issues - will be asked to rejoin. Members are under no obligation to do so.
 
 ### Election
 
@@ -27,7 +27,7 @@ Resigning members may nominate a candidate to replace them, subject to the AC's 
 
 ## Representation
 
-Members are representing themselves, not their employer.
+Members are representing themselves, not their employer. For more information about AC Member Expectations, please see [Member Expectations](https://github.com/ampproject/meta-ac/blob/master/MEMBER_EXPECTATIONS.md).
 
 
 ## Conflict of interest

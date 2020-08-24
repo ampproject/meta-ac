@@ -27,7 +27,7 @@ Resigning members may nominate a candidate to replace them, subject to the AC's 
 
 ## Representation
 
-Members are representing themselves, not their employer. For more information about AC Member Expectations, please see [Member Expectations](https://github.com/ampproject/meta-ac/blob/master/MEMBER_EXPECTATIONS.md).
+Members are representing themselves, not their employer. For more information about AC member expectations, please see [Member Expectations](https://github.com/ampproject/meta-ac/blob/master/MEMBER_EXPECTATIONS.md).
 
 
 ## Conflict of interest
@@ -102,4 +102,3 @@ Consensus-based as [described in the governance policy][consensus].
 [I2I]: https://github.com/ampproject/amphtml/blob/master/CONTRIBUTING.md#contributing-a-new-feature-concept--design-phase
 
 [amp-conf]: https://www.ampproject.org/amp-conf/
-

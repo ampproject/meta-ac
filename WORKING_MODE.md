@@ -11,7 +11,7 @@ The duration of a term is one year. The year starts on November 1st, regardless 
 
 There is no limit to the number of terms a member can do.
 
-Two months before the end of the term year, members in "good standing" - those who have participated in meetings, email threads, and/or GitHub issues - will be asked to rejoin. Members are under no obligation to do so.
+Two months before the end of the term year, members in "good standing"—those who have showed commitment to meeting [member expectations](https://github.com/ampproject/meta-ac/blob/master/MEMBER_EXPECTATIONS.md) accounting for their personal and professional context—will be asked to rejoin. Members are under no obligation to do so.
 
 ### Election
 

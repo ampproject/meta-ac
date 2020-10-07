@@ -29,6 +29,8 @@ The AMP Advisory Committee (AC) provides perspective and advice to the Technical
 
 Github team: https://github.com/orgs/ampproject/teams/ac.
 
+If you are interested in becoming a member of the AC and want to make sure you are informed of upcoming elections, please [fill-in this form][form].
+
 <details>
   <summary>Past members</summary>
   
@@ -57,3 +59,4 @@ We use the following channels to communicate:
 [slack-channel]: https://amphtml.slack.com/messages/amp-ac/
 [slack-signup]: https://docs.google.com/forms/d/e/1FAIpQLSd83J2IZA6cdR6jPwABGsJE8YL4pkypAbKMGgUZZriU7Qu6Tg/viewform?fbzx=4406980310789882877
 [mailing-list]: https://groups.google.com/a/ampproject.org/forum/#!forum/ac
+[form]: https://forms.gle/nv5pg1jTH2HySr9u8

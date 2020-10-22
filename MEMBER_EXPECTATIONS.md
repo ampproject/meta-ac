@@ -6,7 +6,7 @@ This document outlines the expecations for participating in the AMP Advisory Com
 
 The high-level role of an AC member is to:
 
-* Raise high-level direction and strategic technical questions to the Technical Sterring Committee (TSC).
+* Raise high-level direction and strategic technical questions to the Technical Steering Committee (TSC).
 * Provide guideance and feedback on the direction of the project, its goals and values.
 * Bring domain perspective, real-world use cases, and experiences to project working groups and decision makers.
 * Identify and champion user voices, helping to surface their feedback to the right group(s) to solve user issues.

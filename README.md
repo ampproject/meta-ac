@@ -5,6 +5,7 @@ The AMP Advisory Committee (AC) provides perspective and advice to the Technical
 - [Our role](https://github.com/ampproject/meta/blob/master/GOVERNANCE.md#advisory-committee-ac)
 - [Our working mode](https://github.com/ampproject/meta-ac/blob/master/WORKING_MODE.md)
 - [Member expectations](https://github.com/ampproject/meta-ac/blob/master/MEMBER_EXPECTATIONS.md)
+- [Code of conduct](https://github.com/ampproject/meta/blob/master/CODE_OF_CONDUCT.md)
 - [Meeting minutes](https://github.com/ampproject/meta-ac/tree/master/meetings)
 - [Upcoming meetings][meetings]
 

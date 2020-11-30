@@ -11,22 +11,23 @@ The AMP Advisory Committee (AC) provides perspective and advice to the Technical
 
 ## Members:
 
-- Ali Ghassemi - [@aghassemi](https://github.com/aghassemi)
-- Brian Howard - [@brianwhoward](https://github.com/brianwhoward) _(interim)_
-- Charles Vazac - [@cvazac](https://github.com/cvazac)
-- David Merrell - [@dymerrell](https://github.com/dymerrell)
 - Elisa Budelli - [@elibud](https://github.com/elibud)
 - Guilherme Moser de Souza - [@mobtec](https://github.com/mobtec)
 - Joe Alicata - [@wirelessjoe](https://github.com/wirelessjoe)
 - Kenji Baheux - [@kenjibaheux](https://github.com/kenjibaheux)
-- Maggie Wettergreen - [@mjwettergreen](https://github.com/mjwettergreen)
-- Melanie Sumner - [@melsumner](https://github.com/melsumner)
-- Melissa DePuydt - [@msteffan](https://github.com/msteffan)
 - Pablo Delgado - [@pdelgadorodriguez](https://github.com/pdelgadorodriguez)
 - Senthil Padmanabhan - [@senthilp](https://github.com/senthilp)
 - Sumantro Das - [@sumodas](https://github.com/sumodas)
 - Terence Eden - [@edent](https://github.com/edent)
-- Tim Jones - [@tones](https://github.com/tones)
+- Jeremy Keith - [@adactio](https://github.com/adactio)
+- Marissa Halpert - [@marissa-halpert](https://github.com/marissa-halpert)
+- Jett Jackson - [@j-tt](https://github.com/j-tt)
+- Kelsey Johnson - [@kelseyjohnson8](https://github.com/kelseyjohnson8)
+- Julie Bacon - [@baconjulie](https://github.com/baconjulie)
+- Jono Alderson - [@jono-alderson](https://github.com/jono-alderson)
+- Candice Gleason - [@candice-womp](https://github.com/candice-womp)
+- Faizan Siddiqi
+- Tom Chandler - [@tpchandler](https://github.com/tpchandler)
 - Tobie Langel - [@tobie](https://github.com/tobie) _(facilitator)_
 
 Github team: https://github.com/orgs/ampproject/teams/ac.
@@ -43,6 +44,15 @@ If you are interested in becoming a member of the AC and want to make sure you a
   - Levi Durfee - [@levidurfee](https://github.com/levidurfee)
   - Nicole Sullivan - [@stubbornella](https://github.com/stubbornella)
   - Ted Shuter - [@TedShuter](https://github.com/TedShuter)
+  - Tim Jones - [@tones](https://github.com/tones)
+  - Ali Ghassemi - [@aghassemi](https://github.com/aghassemi)
+  - Brian Howard - [@brianwhoward](https://github.com/brianwhoward) _(interim)_
+  - Charles Vazac - [@cvazac](https://github.com/cvazac)
+  - David Merrell - [@dymerrell](https://github.com/dymerrell)
+  - Maggie Wettergreen - [@mjwettergreen](https://github.com/mjwettergreen)
+  - Melanie Sumner - [@melsumner](https://github.com/melsumner)
+  - Melissa DePuydt - [@msteffan](https://github.com/msteffan)
+
 </details>
 
 ## Communication Channels

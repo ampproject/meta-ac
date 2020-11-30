@@ -11,22 +11,22 @@ The AMP Advisory Committee (AC) provides perspective and advice to the Technical
 
 ## Members:
 
+- Candice Gleason - [@candice-womp](https://github.com/candice-womp)
 - Elisa Budelli - [@elibud](https://github.com/elibud)
+- Faizan Siddiqi
 - Guilherme Moser de Souza - [@mobtec](https://github.com/mobtec)
+- Jeremy Keith - [@adactio](https://github.com/adactio)
+- Jett Jackson - [@j-tt](https://github.com/j-tt)
 - Joe Alicata - [@wirelessjoe](https://github.com/wirelessjoe)
+- Jono Alderson - [@jono-alderson](https://github.com/jono-alderson)
+- Julie Bacon - [@baconjulie](https://github.com/baconjulie)
+- Kelsey Johnson - [@kelseyjohnson8](https://github.com/kelseyjohnson8)
 - Kenji Baheux - [@kenjibaheux](https://github.com/kenjibaheux)
+- Marissa Halpert - [@marissa-halpert](https://github.com/marissa-halpert)
 - Pablo Delgado - [@pdelgadorodriguez](https://github.com/pdelgadorodriguez)
 - Senthil Padmanabhan - [@senthilp](https://github.com/senthilp)
 - Sumantro Das - [@sumodas](https://github.com/sumodas)
 - Terence Eden - [@edent](https://github.com/edent)
-- Jeremy Keith - [@adactio](https://github.com/adactio)
-- Marissa Halpert - [@marissa-halpert](https://github.com/marissa-halpert)
-- Jett Jackson - [@j-tt](https://github.com/j-tt)
-- Kelsey Johnson - [@kelseyjohnson8](https://github.com/kelseyjohnson8)
-- Julie Bacon - [@baconjulie](https://github.com/baconjulie)
-- Jono Alderson - [@jono-alderson](https://github.com/jono-alderson)
-- Candice Gleason - [@candice-womp](https://github.com/candice-womp)
-- Faizan Siddiqi
 - Tom Chandler - [@tpchandler](https://github.com/tpchandler)
 - Tobie Langel - [@tobie](https://github.com/tobie) _(facilitator)_
 
@@ -37,21 +37,21 @@ If you are interested in becoming a member of the AC and want to make sure you a
 <details>
   <summary>Past members</summary>
   
+  - Ali Ghassemi - [@aghassemi](https://github.com/aghassemi)
+  - Brian Howard - [@brianwhoward](https://github.com/brianwhoward) _(interim)_
+  - Charles Vazac - [@cvazac](https://github.com/cvazac)
   - Dane Knecht - [@dknecht](https://github.com/dknecht)
+  - David Merrell - [@dymerrell](https://github.com/dymerrell)
   - Graham Loh - [@grahamle](https://github.com/grahamle)
   - Jervay Singh - [@jervay](https://github.com/jervay)
   - Léonie Watson - [@LJWatson](https://github.com/LJWatson)
   - Levi Durfee - [@levidurfee](https://github.com/levidurfee)
-  - Nicole Sullivan - [@stubbornella](https://github.com/stubbornella)
-  - Ted Shuter - [@TedShuter](https://github.com/TedShuter)
-  - Tim Jones - [@tones](https://github.com/tones)
-  - Ali Ghassemi - [@aghassemi](https://github.com/aghassemi)
-  - Brian Howard - [@brianwhoward](https://github.com/brianwhoward) _(interim)_
-  - Charles Vazac - [@cvazac](https://github.com/cvazac)
-  - David Merrell - [@dymerrell](https://github.com/dymerrell)
   - Maggie Wettergreen - [@mjwettergreen](https://github.com/mjwettergreen)
   - Melanie Sumner - [@melsumner](https://github.com/melsumner)
   - Melissa DePuydt - [@msteffan](https://github.com/msteffan)
+  - Nicole Sullivan - [@stubbornella](https://github.com/stubbornella)
+  - Ted Shuter - [@TedShuter](https://github.com/TedShuter)
+  - Tim Jones - [@tones](https://github.com/tones)
 
 </details>
 

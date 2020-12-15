@@ -8,14 +8,17 @@ assignees: ''
 ---
 
 # Meeting time
+##  Americas & EMEA 🌎 🌍
 
 MONTH, DD at 6pm UTC ([see it in your timezone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=AMP+AC+video+conference&iso=YYYYMMDDT18&ah=1)).
 
-# Video Call Information
- 
-Zoom Meeting: https://zoom.us/j/682720372
-Meeting ID: 682 720 372
+Zoom Meeting: https://zoom.us/j/93439705853?pwd=MUdzOWxQTFBOWjVBYzdXbnRMQ0RlZz09
+Meeting ID: 934 3970 5853
 Find your local number: https://zoom.us/u/avfhv6bQL
+
+## EMEA & APAC 🌍 🌏
+
+Not scheduled for now.
 
 # Agenda
 

@@ -50,8 +50,8 @@ If you are interested in becoming a member of the AC and want to make sure you a
   - Melissa DePuydt - [@msteffan](https://github.com/msteffan)
   - Nicole Sullivan - [@stubbornella](https://github.com/stubbornella)
   - Ted Shuter - [@TedShuter](https://github.com/TedShuter)
-  - Tim Jones - [@tones](https://github.com/tones)
   - Terence Eden - [@edent](https://github.com/edent)
+  - Tim Jones - [@tones](https://github.com/tones)
 
 </details>
 

@@ -13,7 +13,7 @@ The AMP Advisory Committee (AC) provides perspective and advice to the Technical
 
 - Candice Gleason - [@candice-womp](https://github.com/candice-womp)
 - Elisa Budelli - [@elibud](https://github.com/elibud)
-- Faizan Siddiqi
+- Faizan Siddiqi - [@SiddiqiFaizan](https://github.com/SiddiqiFaizan)
 - Guilherme Moser de Souza - [@mobtec](https://github.com/mobtec)
 - Jeremy Keith - [@adactio](https://github.com/adactio)
 - Jett Jackson - [@j-tt](https://github.com/j-tt)
@@ -26,7 +26,6 @@ The AMP Advisory Committee (AC) provides perspective and advice to the Technical
 - Pablo Delgado - [@pdelgadorodriguez](https://github.com/pdelgadorodriguez)
 - Senthil Padmanabhan - [@senthilp](https://github.com/senthilp)
 - Sumantro Das - [@sumodas](https://github.com/sumodas)
-- Terence Eden - [@edent](https://github.com/edent)
 - Tom Chandler - [@tpchandler](https://github.com/tpchandler)
 - Tobie Langel - [@tobie](https://github.com/tobie) _(facilitator)_
 
@@ -51,6 +50,7 @@ If you are interested in becoming a member of the AC and want to make sure you a
   - Melissa DePuydt - [@msteffan](https://github.com/msteffan)
   - Nicole Sullivan - [@stubbornella](https://github.com/stubbornella)
   - Ted Shuter - [@TedShuter](https://github.com/TedShuter)
+  - Terence Eden - [@edent](https://github.com/edent)
   - Tim Jones - [@tones](https://github.com/tones)
 
 </details>

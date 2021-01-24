@@ -1,7 +1,7 @@
 ---
 name: Meeting Agenda/Notes
 about: Used to track the agenda for AC meetings
-title: AC Meeting YYYY-MM-DD
+title: AC Meeting YYYY-MM-DD/DD
 labels: 'Type: AC Meeting'
 assignees: ''
 
@@ -10,7 +10,7 @@ assignees: ''
 # Meeting time
 ##  Americas & EMEA 🌎 🌍
 
-MONTH, DD at 6pm UTC ([see it in your timezone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=AMP+AC+video+conference&iso=YYYYMMDDT18&ah=1)).
+DAY, MONTH DD at 6pm UTC ([see it in your timezone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=AMP+AC+Americas%2FEMEA&iso=2021MMDDT18&ah=1)).
 
 Zoom Meeting: https://zoom.us/j/93439705853?pwd=MUdzOWxQTFBOWjVBYzdXbnRMQ0RlZz09
 Meeting ID: 934 3970 5853
@@ -18,7 +18,12 @@ Find your local number: https://zoom.us/u/avfhv6bQL
 
 ## EMEA & APAC 🌍 🌏
 
-Not scheduled for now.
+DAY, MONTH DD at 11am UTC ([see it in your timezone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=AMP+AC+EMEA%2FAPAC&iso=2021MMDDT11&ah=1)).
+
+Zoom Meeting: https://us02web.zoom.us/j/88232401009?pwd=NnRiNTFZeFAvMU5uMnVGZk5tNi9Tdz09
+Meeting ID: 88232401009
+Password: 301196
+Find your local number: https://zoom.us/u/avfhv6bQL
 
 # Agenda
 
@@ -33,4 +38,5 @@ Not scheduled for now.
 # Minutes
 
 [google doc (scratchpad for minute taking)](https://docs.google.com/document/d/1yUezobTPggLO7wSHN9c6W-LPVjzrpA8aU1-lKKdZxKU/edit?usp=sharing)
-[/meetings/YYYY-MM-DD.md](https://github.com/ampproject/meta-ac/blob/master/meetings/YYYY-MM-DD.md)
+[Americas/EMEA](https://github.com/ampproject/meta-ac/blob/master/meetings/2021-MM-DD.md)
+[EMEA/APAC](https://github.com/ampproject/meta-ac/blob/master/meetings/2021-MM-DD.md)

@@ -55,6 +55,17 @@ The facilitator generally acts as a liaison with the TSC.
 The facilitator is responsible for making sure everyone feels welcomed and heard, and enforcing the code of conduct if necessary.
 
 
+## Subcommittees
+
+A subcommittee can be formed by a group of AC members who wish to focus on a particular topic for a fixed (generally short) period of time.
+
+A subcommittee must have a facilitator, an area of focus, a set of deliverables, and an end date at which it presents its recommendations to the AC or requests to be renewed.
+
+A subcommittee may include non-AC members. Its proceedings are public.
+
+Subcommittees do not have any decision making authority. They only provide recommendations to the AC.
+
+
 ## Activities
  
 Goals:
@@ -69,7 +80,7 @@ In practice:
 * Review of [intent to implement issues (I2I)][I2I] either on the I2I itself or in a specific issue.
 * Advice and discussions on topics brought up by the TSC.
 * Publication of “opinions” on specific topics (audience: TSC, [collaborators][collaborator], but also platform implementers, devs, etc.).
-* Sub-committees to work on specific projects (proceedings must also be public).
+* [Subcommittees](#Subcommittees) to work on specific projects (proceedings must also be public).
 * Video conferences and calls as needed, potentially in sub-committees (to account for the size of the AC). Notes are public.
 * Liaison with standards organizations and groups ([W3C][], [WHATWG][], [WICG][], [IETF][], etc.).
 * Two single-day face to face meetings per year, aligned (if possible) with [AMP Conf][amp-conf] and AMP Contributor Summit.

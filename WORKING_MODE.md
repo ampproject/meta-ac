@@ -59,7 +59,7 @@ The facilitator is responsible for making sure everyone feels welcomed and heard
 
 A subcommittee can be formed by a group of AC members who wish to focus on a particular topic for a fixed (generally short) period of time.
 
-A subcommittee must have a facilitator, an area of focus, a set of deliverables, and an end date at which it presents its recommendations to the AC or requests to be renewed.
+A subcommittee must have a [facilitator][], an area of focus, a set of deliverables, and an end date at which it presents its recommendations to the AC or requests to be renewed.
 
 A subcommittee may include non-AC members. Its proceedings are public.
 

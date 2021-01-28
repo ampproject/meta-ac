@@ -37,6 +37,6 @@ Find your local number: https://zoom.us/u/avfhv6bQL
 
 # Minutes
 
-* [Google doc (scratchpad for minute taking)](https://docs.google.com/document/d/1yUezobTPggLO7wSHN9c6W-LPVjzrpA8aU1-lKKdZxKU/edit?usp=sharing)
+* [Google doc (scratchpad for minute taking)](https://docs.google.com/document/d/1xCL3XpBuMVUhWfLZKOVg8K0Wtlq8P3VYwSGTpNQOQeY/edit)
 * [Americas/EMEA minutes](https://github.com/ampproject/meta-ac/blob/master/meetings/2021-MM-DD.md)
 * [EMEA/APAC minutes](https://github.com/ampproject/meta-ac/blob/master/meetings/2021-MM-DD.md)

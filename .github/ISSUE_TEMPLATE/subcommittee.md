@@ -1,7 +1,7 @@
 ---
-name: Propose new subcommittee
-about: Used to propose a new subcommittee to the AC
-title: [NAME] Subcommittee
+name: 'Propose new subcommittee'
+about: 'Used to propose a new subcommittee to the AC'
+title: '[NAME] Subcommittee'
 labels: 'Subcommittee'
 assignees: ''
 ---

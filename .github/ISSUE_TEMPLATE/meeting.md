@@ -7,18 +7,17 @@ assignees: ''
 
 ---
 
-# Meeting time
-##  Americas & EMEA 🌎 🌍
+# Logistics
 
-DAY, MONTH DD at 6pm UTC ([see it in your timezone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=AMP+AC+Americas%2FEMEA&iso=2021MMDDT18&ah=1)).
+## Meeting time
 
-Zoom Meeting: https://zoom.us/j/93439705853?pwd=MUdzOWxQTFBOWjVBYzdXbnRMQ0RlZz09
-Meeting ID: 934 3970 5853
-Find your local number: https://zoom.us/u/avfhv6bQL
+Region | Date | Time (UTC) | Local time
+-|-|-|-
+Americas & EMEA | Monday, MONTH DD | 6pm UTC | [See it in your timezone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=AMP+AC+Americas%2FEMEA&iso=2021MMDDT18&ah=1)
+EMEA & APAC | Tuesday, MONTH DD | 11am UTC | [See it in your timezone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=AMP+AC+EMEA%2FAPAC&iso=2021MMDDT11&ah=1)
 
-## EMEA & APAC 🌍 🌏
-
-DAY, MONTH DD at 11am UTC ([see it in your timezone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=AMP+AC+EMEA%2FAPAC&iso=2021MMDDT11&ah=1)).
+## Video conferencing details
+_Note we use the same conferencing details for both meetings._
 
 Zoom Meeting: https://us02web.zoom.us/j/88232401009?pwd=NnRiNTFZeFAvMU5uMnVGZk5tNi9Tdz09
 Meeting ID: 88232401009

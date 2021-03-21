@@ -17,12 +17,13 @@ Americas & EMEA | Monday, MONTH DD | 6pm UTC | [See it in your timezone](https:/
 EMEA & APAC | Tuesday, MONTH DD | 11am UTC | [See it in your timezone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=AMP+AC+EMEA%2FAPAC&iso=2021MMDDT11&ah=1)
 
 ## Video conferencing details
-_Note we use the same conferencing details for both meetings._
 
 Zoom Meeting: https://us02web.zoom.us/j/88232401009?pwd=NnRiNTFZeFAvMU5uMnVGZk5tNi9Tdz09
 Meeting ID: 88232401009
 Password: 301196
 Find your local number: https://zoom.us/u/avfhv6bQL
+
+_Note: We use the same conferencing details for both meetings._
 
 # Agenda
 

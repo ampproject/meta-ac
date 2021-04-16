@@ -11,7 +11,6 @@ The AMP Advisory Committee (AC) provides perspective and advice to the Technical
 
 ## Members:
 
-- Candice Gleason - [@candice-womp](https://github.com/candice-womp)
 - Elisa Budelli - [@elibud](https://github.com/elibud)
 - Faizan Siddiqi - [@SiddiqiFaizan](https://github.com/SiddiqiFaizan)
 - Guilherme Moser de Souza - [@mobtec](https://github.com/mobtec)
@@ -23,6 +22,7 @@ The AMP Advisory Committee (AC) provides perspective and advice to the Technical
 - Kelsey Johnson - [@kelseyjohnson8](https://github.com/kelseyjohnson8)
 - Kenji Baheux - [@kenjibaheux](https://github.com/kenjibaheux)
 - Marissa Halpert - [@marissa-halpert](https://github.com/marissa-halpert)
+- Michael Chun - [@michaelwomple](https://github.com/michaelwomple) _(interim)_
 - Pablo Delgado - [@pdelgadorodriguez](https://github.com/pdelgadorodriguez)
 - Senthil Padmanabhan - [@senthilp](https://github.com/senthilp)
 - Sumantro Das - [@sumodas](https://github.com/sumodas)
@@ -38,6 +38,7 @@ If you are interested in becoming a member of the AC and want to make sure you a
   
   - Ali Ghassemi - [@aghassemi](https://github.com/aghassemi)
   - Brian Howard - [@brianwhoward](https://github.com/brianwhoward) _(interim)_
+  - Candice Gleason - [@candice-womp](https://github.com/candice-womp)
   - Charles Vazac - [@cvazac](https://github.com/cvazac)
   - Dane Knecht - [@dknecht](https://github.com/dknecht)
   - David Merrell - [@dymerrell](https://github.com/dymerrell)

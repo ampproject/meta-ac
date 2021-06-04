@@ -2,7 +2,7 @@
 name: Meeting Agenda/Notes
 about: Used to track the agenda for AC meetings
 title: AC Meeting 2021-MM-DD/DD
-labels: 'Type: AC Meeting'
+labels: 'AC Meeting'
 assignees: ''
 
 ---

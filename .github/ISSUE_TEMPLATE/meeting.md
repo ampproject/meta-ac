@@ -28,8 +28,8 @@ _Note: We use the same conferencing details for both meetings._
 # Agenda
 
 * Approve last call's minutes.
-* Check roster for TSC meeting.
-* Check roster for Design reviews.
+* Check roster for [TSC meeting](https://github.com/ampproject/meta-tsc/labels/TSC%20Meeting).
+* Check roster for [Design reviews](https://github.com/ampproject/amphtml/labels/Type%3A%20Design%20Review).
 * ...
 * Check [issue board](https://github.com/ampproject/meta-ac/projects/2).
 

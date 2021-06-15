@@ -11,9 +11,21 @@ assignees: ''
 
 ## Meeting time
 
+<!--
+Watch out to fix UTC times depending on daylights savings.
+
+Currently, the Americas & EMEA meetings shifts to accomodate daylight savings.
+So meetings are held:
+- at 5pm UTC during the northern hemisphere summer months and
+- at 6pm UTC during the northern hemisphere winter months.
+
+The EMEA & APAC meetings do NOT change with daylight savings.
+Meetings are held at 11am UTC all year round.
+-->
+
 Region | Date | Time (UTC) | Local time
 -|-|-|-
-Americas & EMEA | Monday, MONTH DD | 6pm UTC | [See it in your timezone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=AMP+AC+Americas%2FEMEA&iso=2021MMDDT18&ah=1)
+Americas & EMEA | Monday, MONTH DD | <!-- summer --> 5pm UTC / <!-- winter --> 6pm UTC |  <!-- summer --> [See it in your timezone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=AMP+AC+Americas%2FEMEA&iso=2021MMDDT17&ah=1) / <!-- winter --> [See it in your timezone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=AMP+AC+Americas%2FEMEA&iso=2021MMDDT18&ah=1)
 EMEA & APAC | Tuesday, MONTH DD | 11am UTC | [See it in your timezone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=AMP+AC+EMEA%2FAPAC&iso=2021MMDDT11&ah=1)
 
 ## Video conferencing details

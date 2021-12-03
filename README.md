@@ -11,6 +11,7 @@ The AMP Advisory Committee (AC) provides perspective and advice to the Technical
 
 ## Members:
 
+- Daniel Walmsley - [@gravityrail](https://github.com/gravityrail) _(interim)_
 - Faizan Siddiqi - [@SiddiqiFaizan](https://github.com/SiddiqiFaizan)
 - Guilherme Moser de Souza - [@mobtec](https://github.com/mobtec)
 - Jett Jackson - [@j-tt](https://github.com/j-tt)

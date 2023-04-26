@@ -20,7 +20,6 @@ The AMP Advisory Committee (AC) provides perspective and advice to the Technical
 - Kenji Baheux - [@kenjibaheux](https://github.com/kenjibaheux)
 - Michael Chun - [@michaelwomple](https://github.com/michaelwomple) _(interim)_
 - Pablo Delgado - [@pdelgadorodriguez](https://github.com/pdelgadorodriguez)
-- Senthil Padmanabhan - [@senthilp](https://github.com/senthilp)
 - Sumantro Das - [@sumodas](https://github.com/sumodas)
 - Tom Chandler - [@tpchandler](https://github.com/tpchandler)
 - Tobie Langel - [@tobie](https://github.com/tobie) _(facilitator)_
@@ -51,6 +50,7 @@ If you are interested in becoming a member of the AC and want to make sure you a
   - Melanie Sumner - [@melsumner](https://github.com/melsumner)
   - Melissa DePuydt - [@msteffan](https://github.com/msteffan)
   - Nicole Sullivan - [@stubbornella](https://github.com/stubbornella)
+  - Senthil Padmanabhan - [@senthilp](https://github.com/senthilp)
   - Ted Shuter - [@TedShuter](https://github.com/TedShuter)
   - Terence Eden - [@edent](https://github.com/edent)
   - Tim Jones - [@tones](https://github.com/tones)

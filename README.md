@@ -15,12 +15,10 @@ The AMP Advisory Committee (AC) provides perspective and advice to the Technical
 - Faizan Siddiqi - [@SiddiqiFaizan](https://github.com/SiddiqiFaizan)
 - Guilherme Moser de Souza - [@gui-poa](https://github.com/gui-poa)
 - Jett Jackson - [@j-tt](https://github.com/j-tt)
-- Joe Alicata - [@wirelessjoe](https://github.com/wirelessjoe)
 - Jono Alderson - [@jono-alderson](https://github.com/jono-alderson)
 - Kenji Baheux - [@kenjibaheux](https://github.com/kenjibaheux)
 - Michael Chun - [@michaelwomple](https://github.com/michaelwomple) _(interim)_
 - Pablo Delgado - [@pdelgadorodriguez](https://github.com/pdelgadorodriguez)
-- Senthil Padmanabhan - [@senthilp](https://github.com/senthilp)
 - Sumantro Das - [@sumodas](https://github.com/sumodas)
 - Tom Chandler - [@tpchandler](https://github.com/tpchandler)
 - Tobie Langel - [@tobie](https://github.com/tobie) _(facilitator)_
@@ -42,6 +40,7 @@ If you are interested in becoming a member of the AC and want to make sure you a
   - Graham Loh - [@grahamle](https://github.com/grahamle)
   - Jeremy Keith - [@adactio](https://github.com/adactio)
   - Jervay Singh - [@jervay](https://github.com/jervay)
+  - Joe Alicata - [@wirelessjoe](https://github.com/wirelessjoe)
   - Julie Bacon - [@baconjulie](https://github.com/baconjulie)
   - Kelsey Johnson - [@kelseyjohnson8](https://github.com/kelseyjohnson8)
   - Léonie Watson - [@LJWatson](https://github.com/LJWatson)
@@ -51,6 +50,7 @@ If you are interested in becoming a member of the AC and want to make sure you a
   - Melanie Sumner - [@melsumner](https://github.com/melsumner)
   - Melissa DePuydt - [@msteffan](https://github.com/msteffan)
   - Nicole Sullivan - [@stubbornella](https://github.com/stubbornella)
+  - Senthil Padmanabhan - [@senthilp](https://github.com/senthilp)
   - Ted Shuter - [@TedShuter](https://github.com/TedShuter)
   - Terence Eden - [@edent](https://github.com/edent)
   - Tim Jones - [@tones](https://github.com/tones)

@@ -15,7 +15,6 @@ The AMP Advisory Committee (AC) provides perspective and advice to the Technical
 - Faizan Siddiqi - [@SiddiqiFaizan](https://github.com/SiddiqiFaizan)
 - Guilherme Moser de Souza - [@gui-poa](https://github.com/gui-poa)
 - Jett Jackson - [@j-tt](https://github.com/j-tt)
-- Joe Alicata - [@wirelessjoe](https://github.com/wirelessjoe)
 - Jono Alderson - [@jono-alderson](https://github.com/jono-alderson)
 - Kenji Baheux - [@kenjibaheux](https://github.com/kenjibaheux)
 - Michael Chun - [@michaelwomple](https://github.com/michaelwomple) _(interim)_
@@ -41,6 +40,7 @@ If you are interested in becoming a member of the AC and want to make sure you a
   - Graham Loh - [@grahamle](https://github.com/grahamle)
   - Jeremy Keith - [@adactio](https://github.com/adactio)
   - Jervay Singh - [@jervay](https://github.com/jervay)
+  - Joe Alicata - [@wirelessjoe](https://github.com/wirelessjoe)
   - Julie Bacon - [@baconjulie](https://github.com/baconjulie)
   - Kelsey Johnson - [@kelseyjohnson8](https://github.com/kelseyjohnson8)
   - Léonie Watson - [@LJWatson](https://github.com/LJWatson)
